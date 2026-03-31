@@ -40,4 +40,3 @@ This project focuses on **Git**, a distributed version control system developed 
 
 ```bash
 git clone https://github.com/yashasvi24bce10647-dotcom/OSS-Capstone-Project-24BCE10647.git
-cd oss-audit-<rollnumber>
